@@ -116,3 +116,11 @@ same pr call for development update to main
 
 
 '''
+
+
+
+# armstrong number is sum of all digit with respective power to the no of digits 
+1634 = 1^4 + 6^4 + 3^4 + 4^4 
+
+# mutation 
+# assinging
