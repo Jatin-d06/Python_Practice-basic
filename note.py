@@ -127,3 +127,9 @@ same pr call for development update to main
 
 # ascii value program incomplete 
 # assignment 2 completed but rename it 
+
+
+# project on console 
+# number guessing game 
+# game on console
+# rock paper scirros
