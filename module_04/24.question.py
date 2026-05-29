@@ -22,4 +22,4 @@ for name , score in school.items():
     sum = 0 
     for s in score: 
         sum += s 
-    print(name,sum)
+    print(name,sum/len(score))
